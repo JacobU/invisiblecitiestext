@@ -1,5 +1,5 @@
 +++
-title = Trading Cities 2
+title = "Trading Cities 2"
 number = 24
 +++
 

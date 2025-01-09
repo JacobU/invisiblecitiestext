@@ -1,5 +1,5 @@
 +++
-title = Thin Cities 2
+title = "Thin Cities 2"
 number = 17
 +++
 

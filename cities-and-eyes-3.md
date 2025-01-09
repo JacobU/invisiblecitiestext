@@ -1,5 +1,5 @@
 +++
-title = Cities & Eyes 3
+title = "Cities & Eyes 3"
 number = 36
 +++
 

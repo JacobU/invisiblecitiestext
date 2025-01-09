@@ -1,5 +1,5 @@
 +++
-title = Continuous Cities 2
+title = "Continuous Cities 2"
 number = 58
 +++
 

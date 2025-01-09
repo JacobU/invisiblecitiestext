@@ -1,5 +1,5 @@
 +++
-title = Interlude 6
+title = "Interlude 6"
 number = 27
 +++
 

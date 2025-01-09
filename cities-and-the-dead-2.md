@@ -1,5 +1,5 @@
 +++
-title = Cities & the Dead 2
+title = "Cities & the Dead 2"
 number = 44
 +++
 

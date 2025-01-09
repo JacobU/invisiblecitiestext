@@ -1,5 +1,5 @@
 +++
-title = Hidden Cities 1
+title = "Hidden Cities 1"
 number = 59
 +++
 
